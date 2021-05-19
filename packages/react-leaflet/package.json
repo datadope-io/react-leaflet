@@ -43,7 +43,7 @@
     "umd/*"
   ],
   "dependencies": {
-    "@react-leaflet/core": "../core"
+    "@react-leaflet/core": "file:../core"
   },
   "peerDependencies": {
     "leaflet": "^1.7.1",
