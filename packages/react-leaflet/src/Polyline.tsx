@@ -1,4 +1,4 @@
-import { PathProps, createPathComponent } from '@react-leaflet/core'
+import { PathProps, createPathComponent } from '@monsonjeremy/react-leaflet-core'
 import {
   LatLngExpression,
   Polyline as LeafletPolyline,

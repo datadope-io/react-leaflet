@@ -2,7 +2,7 @@ import {
   CircleMarkerProps,
   createPathComponent,
   updateCircle,
-} from '@react-leaflet/core'
+} from '@monsonjeremy/react-leaflet-core'
 import { Circle as LeafletCircle } from 'leaflet'
 
 export type CircleProps = CircleMarkerProps

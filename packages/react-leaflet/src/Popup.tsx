@@ -4,7 +4,7 @@ import {
   LeafletElement,
   SetOpenFunc,
   createOverlayComponent,
-} from '@react-leaflet/core'
+} from '@monsonjeremy/react-leaflet-core'
 import {
   LatLngExpression,
   Popup as LeafletPopup,
