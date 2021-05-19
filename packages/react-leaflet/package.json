@@ -1,6 +1,6 @@
 {
   "name": "@datadope-io/react-leaflet",
-  "version": "3.2.0",
+  "version": "3.2.2",
   "description": "React components for Leaflet maps",
   "main": "cjs/index.js",
   "module": "esm/index.js",
@@ -43,7 +43,7 @@
     "umd/*"
   ],
   "dependencies": {
-    "@monsonjeremy/react-leaflet-core": "1.1.0"
+    "@monsonjeremy/react-leaflet-core": "1.1.1"
   },
   "peerDependencies": {
     "leaflet": "^1.7.1",
