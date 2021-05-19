@@ -30,7 +30,7 @@
     "leaflet",
     "map"
   ],
-  "author": "Paul Le Cam <paul@ulem.net>",
+  "author": "Paul Le Cam <paul@ulem.net> | Jeremy Monson <monson.jeremy@gmail.com>",
   "license": "Hippocratic-2.1",
   "bugs": {
     "url": "https://github.com/PaulLeCam/react-leaflet/issues"
@@ -43,7 +43,7 @@
     "umd/*"
   ],
   "dependencies": {
-    "@react-leaflet/core": "file:../core"
+    "@monsonjeremy/react-leaflet-core": "1.1.0"
   },
   "peerDependencies": {
     "leaflet": "^1.7.1",
